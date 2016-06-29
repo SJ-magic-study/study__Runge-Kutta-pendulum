@@ -2,7 +2,7 @@
 振り子のSimulation
 
 Runge-Kutta
-	運動方程式など、上微分方程式の解法
+	運動方程式など、常微分方程式の解法
 	
 	
 	http://hooktail.org/computer/index.php?Runge-Kutta%CB%A1
